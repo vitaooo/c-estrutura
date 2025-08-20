@@ -9,6 +9,8 @@
     System.Console.WriteLine("");
 }
 
+void descrescente
+
 
 
 string op;
