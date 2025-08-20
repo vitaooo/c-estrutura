@@ -1,4 +1,4 @@
-﻿void crescenteI(int nI, int nF) {
+﻿/*void crescenteI(int nI, int nF) {
     System.Console.WriteLine("");
     System.Console.WriteLine("----");
     while (nI <= nF) {
@@ -7,9 +7,44 @@
     }
     System.Console.WriteLine("----");
     System.Console.WriteLine("");
+}*/
+
+void crescente (int nI, int nF) {
+
+    if (nI <= nF){
+        System.Console.WriteLine(nI);
+        crescente(nI + 1, nF);
+    }
+    System.Console.WriteLine("");
+} 
+
+/*void descrescenteI (int nI, int nF) {
+    System.Console.WriteLine("");
+    System.Console.WriteLine("----");
+    while (nI >= nF) {
+        System.Console.WriteLine(nI);
+        nI -= 1;
+    }
+    System.Console.WriteLine("----");
+    System.Console.WriteLine("");
+}*/
+
+void decrescente(int nI, int nF) {
+    if (nI >= nF){
+        System.Console.WriteLine(nI);
+        decrescente(nI - 1, nF);
+    }
 }
 
-void descrescente
+void imparesI(int nI, int nF) {
+    while (nI <= nF) {
+        if (nI % 2 != 0) {
+            System.Console.WriteLine("Número "+ nI+ "é ímpar");
+            
+        }
+        nI += 1;
+    }
+}
 
 
 
@@ -58,9 +93,14 @@ while (op != "3")
         System.Console.WriteLine("Opção desejada: ");
         System.Console.WriteLine("");
         string op2 = Console.ReadLine();
+        System.Console.WriteLine("");
 
         if (op2 == "1") {
-            crescenteI(nI, nF);
+            crescente(nI, nF);
+        } else if (op2 == "2") {
+            decrescente(nI, nF);
+        } else if (op2 == "3") {
+            imparesI()
         }
     }
 
