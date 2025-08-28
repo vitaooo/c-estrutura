@@ -39,18 +39,20 @@ void decrescente(int nI, int nF) {
 void imparesI(int nI, int nF) {
     while (nI <= nF) {
         if (nI % 2 != 0) {
-            System.Console.WriteLine("Número "+ nI+ "é ímpar");
+            Console.WriteLine("Número "+ nI+ "é ímpar");
             
         }
         nI += 1;
     }
 }
 
+
+
 int somatorio(int nI, int nF) {
-    if (nI <= nF) {
+    if (nI < nF) {
         return nI + somatorio(nI +1, nF);
     } else {
-        return 0;
+        return nI;
     }
 }
 
@@ -105,17 +107,50 @@ while (op != "3")
 
         if (op2 == "1") {
             crescente(nI, nF);
+
         } else if (op2 == "2") {
             decrescente(nI, nF);
+
         } else if (op2 == "3") {
+        
             imparesI(nI, nF);
+
         } else if(op2 == "4") {
-            somatorio(nI, nF);
+            int s;
+            s = somatorio(nI, nF);
+            System.Console.WriteLine(s);
         }
     }
 
      else if (op == "2")
     {
+        int[] vetor;
+        vetor = new int[3];
+        int i;
+
+        vetorRec(i) {
+            if(i < 3) {
+                for(i = 0; i< 3; i++) {
+                    vetor[i] = Convert.ToInt32(Console.ReadLine());
+                    return vetorRec(i + 1);
+                }
+            }
+        }
+
+
+
+        /*
+        int i;
+
+        for(i = 0; i < 3; i++){
+            System.Console.WriteLine("digita ai");
+            vetor[i] = Convert.ToInt32(Console.ReadLine());
+        }
+
+        for(i = 0; i < 3; i++){
+            System.Console.WriteLine(vetor[i]);
+        }*/
+        
       /*Console.WriteLine("Menu Secundário");
         Console.WriteLine("1 - Inteiros em ordem crescente");
         Console.WriteLine("2 - Inteiros em ordem decrescente");
