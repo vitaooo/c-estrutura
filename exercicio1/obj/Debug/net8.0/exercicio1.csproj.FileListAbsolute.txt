@@ -36,3 +36,10 @@ C:\fafa\c-estrutura\exercicio1\obj\Debug\net8.0\exercicio1.sourcelink.json
 C:\fafa\c-estrutura\exercicio1\obj\Debug\net8.0\exercicio1.dll
 C:\fafa\c-estrutura\exercicio1\obj\Debug\net8.0\refint\exercicio1.dll
 C:\fafa\c-estrutura\exercicio1\obj\Debug\net8.0\exercicio1.pdb
+C:\fafa\c-estrutura\exercicio1\bin\Debug\net8.0\exercicio1.exe
+C:\fafa\c-estrutura\exercicio1\bin\Debug\net8.0\exercicio1.deps.json
+C:\fafa\c-estrutura\exercicio1\bin\Debug\net8.0\exercicio1.runtimeconfig.json
+C:\fafa\c-estrutura\exercicio1\bin\Debug\net8.0\exercicio1.dll
+C:\fafa\c-estrutura\exercicio1\bin\Debug\net8.0\exercicio1.pdb
+C:\fafa\c-estrutura\exercicio1\obj\Debug\net8.0\exercicio1.genruntimeconfig.cache
+C:\fafa\c-estrutura\exercicio1\obj\Debug\net8.0\ref\exercicio1.dll

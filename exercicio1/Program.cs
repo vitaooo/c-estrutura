@@ -1,4 +1,14 @@
-﻿
+﻿/*void crescenteI(int nI, int nF) {
+    System.Console.WriteLine("");
+    System.Console.WriteLine("----");
+    while (nI <= nF) {
+        System.Console.WriteLine(nI);
+        nI += 1;
+    }
+    System.Console.WriteLine("----");
+    System.Console.WriteLine("");
+}*/
+
 void crescente (int nI, int nF) {
 
     if (nI <= nF){
@@ -7,6 +17,17 @@ void crescente (int nI, int nF) {
     }
     System.Console.WriteLine("");
 } 
+
+/*void descrescenteI (int nI, int nF) {
+    System.Console.WriteLine("");
+    System.Console.WriteLine("----");
+    while (nI >= nF) {
+        System.Console.WriteLine(nI);
+        nI -= 1;
+    }
+    System.Console.WriteLine("----");
+    System.Console.WriteLine("");
+}*/
 
 void decrescente(int nI, int nF) {
     if (nI >= nF){
@@ -19,6 +40,7 @@ void imparesI(int nI, int nF) {
     while (nI <= nF) {
         if (nI % 2 != 0) {
             Console.WriteLine("Número "+ nI+ "é ímpar");
+            
         }
         nI += 1;
     }
@@ -28,7 +50,7 @@ void imparesI(int nI, int nF) {
 
 int somatorio(int nI, int nF) {
     if (nI < nF) {
-        return nI + somatorio(nI + 1, nF);
+        return nI + somatorio(nI +1, nF);
     } else {
         return nI;
     }
@@ -102,18 +124,6 @@ while (op != "3")
 
      else if (op == "2")
     {
-        int[] vetor;
-        vetor = new int[3];
-        int i;
-
-        vetorRec(i) {
-            if(i < 3) {
-                for(i = 0; i< 3; i++) {
-                    vetor[i] = Convert.ToInt32(Console.ReadLine());
-                    return vetorRec(i + 1);
-                }
-            }
-        }
 
 
 
