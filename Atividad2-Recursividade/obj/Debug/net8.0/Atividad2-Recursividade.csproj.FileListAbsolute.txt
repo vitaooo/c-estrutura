@@ -1,0 +1,15 @@
+C:\fafa\c-estrutura\Atividad2-Recursividade\bin\Debug\net8.0\Atividad2-Recursividade.exe
+C:\fafa\c-estrutura\Atividad2-Recursividade\bin\Debug\net8.0\Atividad2-Recursividade.deps.json
+C:\fafa\c-estrutura\Atividad2-Recursividade\bin\Debug\net8.0\Atividad2-Recursividade.runtimeconfig.json
+C:\fafa\c-estrutura\Atividad2-Recursividade\bin\Debug\net8.0\Atividad2-Recursividade.dll
+C:\fafa\c-estrutura\Atividad2-Recursividade\bin\Debug\net8.0\Atividad2-Recursividade.pdb
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\Atividad2-Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\Atividad2-Recursividade.AssemblyInfoInputs.cache
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\Atividad2-Recursividade.AssemblyInfo.cs
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\Atividad2-Recursividade.csproj.CoreCompileInputs.cache
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\Atividad2-Recursividade.sourcelink.json
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\Atividad2-Recursividade.dll
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\refint\Atividad2-Recursividade.dll
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\Atividad2-Recursividade.pdb
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\Atividad2-Recursividade.genruntimeconfig.cache
+C:\fafa\c-estrutura\Atividad2-Recursividade\obj\Debug\net8.0\ref\Atividad2-Recursividade.dll
