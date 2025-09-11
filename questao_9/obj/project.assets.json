@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\c-estrutura\\exercicio1\\exercicio1.csproj",
-      "projectName": "exercicio1",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\c-estrutura\\exercicio1\\exercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\c-estrutura\\questao_9\\questao_9.csproj",
+      "projectName": "questao_9",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\c-estrutura\\questao_9\\questao_9.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\c-estrutura\\exercicio1\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\c-estrutura\\questao_9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
