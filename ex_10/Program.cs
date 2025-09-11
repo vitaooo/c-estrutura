@@ -33,13 +33,16 @@ Console.Write("Digite uma frase: ");
 f = Console.ReadLine();
 
 //char c = pilhaPalavra[i];
-//int qtd = pilhaPalavra.Length;
+int qtd = pilhaPalavra.Length;
 
-InsereFrase(f);
-
-
-while (pilhaPalavra[posicao] != ' '){
-    InsereFrase(f);
-    Remove();
+int i = 0;
+while (pilhaPalavra[i] <= qtd){
+    while(pilhaPalavra[i] != ' '){
+        InsereFrase(pilhaPalavra[i]);
+        i++;
+    }
+    while(){
+        System.Console.WriteLine(Remove());
+    }
     
 }
