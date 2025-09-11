@@ -29,7 +29,7 @@ bool EstaCheia(){
 
 //principal
 int n;
-System.Console.WriteLine("Digite um numero: ");
+System.Console.Write("Digite um numero: ");
 n = Convert.ToInt32(Console.ReadLine());
 
 while (n != 0){
@@ -41,5 +41,5 @@ while (n != 0){
 while (!EstaVazia())
 {
     //r = Remove();
-    System.Console.WriteLine(Remove());
+    Console.Write(Remove());
 }
