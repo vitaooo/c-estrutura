@@ -1,14 +1,22 @@
 ﻿char[] pilhaPalavra = new char[20];
 int posicao = 0;
 
-void InsereFrase(char frase){
-    pilhaPalavra[posicao] = frase;
-    posicao = posicao + 1;
+void InsereFrase(char caractere){
+    if (posicao < pilhaPalavra.Lenght)
+    {
+        pilhaPalavra[posicao] = caractere;
+        posicao++;
+    }
 }
 
-char Remove(){
-    posicao = posicao - 1;
-    return (pilhaPalavra[posicao]);
+char Remove()
+{
+    if (posicao > 0)
+    {
+        posica--;
+        return pilhaPalavra[posicao];
+    }
+    return '\0';
 }
 
 bool EstaVazia(){
@@ -32,16 +40,15 @@ string f;
 Console.Write("Digite uma frase: ");
 f = Console.ReadLine();
 
-//char c = pilhaPalavra[i];
 int qtd = pilhaPalavra.Length;
 
 int i = 0;
-while (pilhaPalavra[i] <= qtd){
+while (pilhaPalavra.Lenght <= qtd){
     while(pilhaPalavra[i] != ' '){
         InsereFrase(pilhaPalavra[i]);
         i++;
     }
-    while(){
+    while(pilhaPalavra[i] != ' '){
         System.Console.WriteLine(Remove());
     }
     

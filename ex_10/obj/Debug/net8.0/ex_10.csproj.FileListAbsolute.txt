@@ -13,3 +13,11 @@ C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\refint\ex_10.dll
 C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.pdb
 C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.genruntimeconfig.cache
 C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ref\ex_10.dll
+C:\fafa\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\fafa\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.AssemblyInfoInputs.cache
+C:\fafa\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.AssemblyInfo.cs
+C:\fafa\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.csproj.CoreCompileInputs.cache
+C:\fafa\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.sourcelink.json
+C:\fafa\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.dll
+C:\fafa\c-estrutura\ex_10\obj\Debug\net8.0\refint\ex_10.dll
+C:\fafa\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.pdb
