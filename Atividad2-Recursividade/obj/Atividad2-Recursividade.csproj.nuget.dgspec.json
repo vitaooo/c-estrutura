@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\fafa\\c-estrutura\\Atividad2-Recursividade\\Atividad2-Recursividade.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\c-estrutura\\Atividad2-Recursividade\\Atividad2-Recursividade.csproj": {}
   },
   "projects": {
-    "C:\\fafa\\c-estrutura\\Atividad2-Recursividade\\Atividad2-Recursividade.csproj": {
+    "C:\\Users\\aluno\\Desktop\\c-estrutura\\Atividad2-Recursividade\\Atividad2-Recursividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\fafa\\c-estrutura\\Atividad2-Recursividade\\Atividad2-Recursividade.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\c-estrutura\\Atividad2-Recursividade\\Atividad2-Recursividade.csproj",
         "projectName": "Atividad2-Recursividade",
-        "projectPath": "C:\\fafa\\c-estrutura\\Atividad2-Recursividade\\Atividad2-Recursividade.csproj",
-        "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\fafa\\c-estrutura\\Atividad2-Recursividade\\obj\\",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\c-estrutura\\Atividad2-Recursividade\\Atividad2-Recursividade.csproj",
+        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\c-estrutura\\Atividad2-Recursividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

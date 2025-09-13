@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.AssemblyInfo.cs
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.sourcelink.json
+C:\Users\aluno\Desktop\c-estrutura\ex_10\bin\Debug\net8.0\ex_10.exe
+C:\Users\aluno\Desktop\c-estrutura\ex_10\bin\Debug\net8.0\ex_10.deps.json
+C:\Users\aluno\Desktop\c-estrutura\ex_10\bin\Debug\net8.0\ex_10.runtimeconfig.json
+C:\Users\aluno\Desktop\c-estrutura\ex_10\bin\Debug\net8.0\ex_10.dll
+C:\Users\aluno\Desktop\c-estrutura\ex_10\bin\Debug\net8.0\ex_10.pdb
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.dll
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\refint\ex_10.dll
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.pdb
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ex_10.genruntimeconfig.cache
+C:\Users\aluno\Desktop\c-estrutura\ex_10\obj\Debug\net8.0\ref\ex_10.dll

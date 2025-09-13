@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\c-estrutura\questao_9\bin\Debug\net8.0\questao_9.exe
+C:\Users\aluno\Desktop\c-estrutura\questao_9\bin\Debug\net8.0\questao_9.deps.json
+C:\Users\aluno\Desktop\c-estrutura\questao_9\bin\Debug\net8.0\questao_9.runtimeconfig.json
+C:\Users\aluno\Desktop\c-estrutura\questao_9\bin\Debug\net8.0\questao_9.dll
+C:\Users\aluno\Desktop\c-estrutura\questao_9\bin\Debug\net8.0\questao_9.pdb
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\questao_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\questao_9.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\questao_9.AssemblyInfo.cs
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\questao_9.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\questao_9.sourcelink.json
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\questao_9.dll
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\refint\questao_9.dll
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\questao_9.pdb
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\questao_9.genruntimeconfig.cache
+C:\Users\aluno\Desktop\c-estrutura\questao_9\obj\Debug\net8.0\ref\questao_9.dll
