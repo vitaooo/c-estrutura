@@ -2,7 +2,7 @@
 int posicao = 0;
 
 void InsereFrase(char caractere){
-    if (posicao < pilhaPalavra.Lenght)
+    if (posicao < pilhaPalavra.Length)
     {
         pilhaPalavra[posicao] = caractere;
         posicao++;
@@ -13,7 +13,7 @@ char Remove()
 {
     if (posicao > 0)
     {
-        posica--;
+        posicao--;
         return pilhaPalavra[posicao];
     }
     return '\0';
@@ -40,16 +40,20 @@ string f;
 Console.Write("Digite uma frase: ");
 f = Console.ReadLine();
 
-int qtd = pilhaPalavra.Length;
+int qtd = f.Length;
 
 int i = 0;
-while (pilhaPalavra.Lenght <= qtd){
-    while(pilhaPalavra[i] != ' '){
-        InsereFrase(pilhaPalavra[i]);
+
+while (i < qtd){
+    while(i < qtd && f[i] != ' '){
+        InsereFrase(f[i]);
         i++;
     }
-    while(pilhaPalavra[i] != ' '){
-        System.Console.WriteLine(Remove());
+
+    while(!EstaVazia()){
+        char r = Remove();
+        System.Console.Write(r); 
     }
-    
-}
+    System.Console.Write(' ');
+    i++;
+} 

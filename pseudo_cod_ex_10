@@ -1,0 +1,16 @@
+//copia a estrutura da pilha do slide
+// atualiza o tipo de dado que a estrutura manipila
+/*
+conheça a frase (C.RL)
+enquanto não for fim de frase
+    se o caractere for diferente do espaço
+        insira o caractere na pilha (Insere())
+    senão
+        enquanto a pilha não estiver vazia (while(!Vazia()))
+            remove o caractere da pilha (Remove())
+            exibe o caractere na tela (C.WL())
+        fim
+        exibe um espaço na tela (C.WL())
+    fim
+    incrementa o indice de acesso a frase (topo++)
+fim
