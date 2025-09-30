@@ -65,4 +65,4 @@ while(!EstaVazia()) {
 }
 System.Console.WriteLine(maior);
 System.Console.WriteLine(menor);
-System.Console.WriteLine(media / cont);
+System.Console.WriteLine(soma / cont);
