@@ -49,8 +49,8 @@ while(!EstaCheia()){
 
 int maior = PrimeiroFila();
 int menor = PrimeiroFila();
-int media = 0;
-int mediaR;
+int soma = 0;
+int cont = 0;
 
 while(!EstaVazia()) {
     int x = Remove();
@@ -60,8 +60,9 @@ while(!EstaVazia()) {
     if (x < menor){
         menor = x;
     }
-    media = media + x;
+    soma = soma + x;
+    cont++;
 }
 System.Console.WriteLine(maior);
 System.Console.WriteLine(menor);
-System.Console.WriteLine(media / fila.Length);
+System.Console.WriteLine(media / cont);
