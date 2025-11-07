@@ -81,12 +81,13 @@ pessoa anterior, atual;
 anterior = atual = null;
 string op = "0";
 while(op != "5"){
-    op = Console.ReadLine(); 
+    
     System.Console.WriteLine("1 - Incluir");
     System.Console.WriteLine("2 - Alterar");
     System.Console.WriteLine("3 - Excluir");
     System.Console.WriteLine("4 - Exibir todos");
     System.Console.WriteLine("5 - Sair");
+    op = Console.ReadLine(); 
     if(op == "1"){
         System.Console.WriteLine("Digite o seu nome, idade e seu número de telefone: ");
         string n = Console.ReadLine();
@@ -111,7 +112,6 @@ while(op != "5"){
         Consulta(nomeBusca, ref anterior, ref atual);
 
         if(atual != null){
-            Consulta(atual);
             Exibe(atual);
             Exclui(anterior, atual);
             System.Console.WriteLine("Exclusão concluída!");
